@@ -71,8 +71,14 @@ Hypothesis Testing is the first step we take towards understanding the data. Hyp
 ![](/images/Model_build_1.png)
 ![](/images/model_comparison.png)
 ![](/images/ROC_FOR_ALL.png)
-![](/images/Random_Forest ROC-AUC Curve.png)
+<!-- ![](/images/Random_Forest ROC-AUC Curve.png)
 ![](/images/xgb ROC-AUC Curve.png)
-
+ -->
 
 - **Final Submission**
+
+For Final Submission I choose XGB Classifier which gave me ROC-AUC Score as follows.
+     1. Test Score: ROC AUC=0.948
+     2. Train Score: ROC AUC=0.944
+
+![](/images/xgb ROC-AUC Curve.png)
