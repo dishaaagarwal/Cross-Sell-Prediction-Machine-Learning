@@ -52,7 +52,7 @@ Variable | Description
 Hypothesis Testing is the first step we take towards understanding the data. Hypothesis Testing gives us the head-start towards understanding the problem.
 
 - **EDA**
-![](/images/Wholedata.png)
+<!-- ![](/images/Wholedata.png) -->
 ![](/images/EDA_1.png)
 ![](/images/EDA_2.png)
 ![](/images/EDA_3.png)
