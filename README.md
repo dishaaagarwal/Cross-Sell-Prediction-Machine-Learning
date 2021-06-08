@@ -30,7 +30,7 @@ Variable | Description
 
 - Region_Code | Unique code for the region of the customer
 
-- Previously_Insured  | 	1 : Customer already has Vehicle Insurance, 0 : Customer doesn't have Vehicle Insurance
+- Previously_Insured  |  1 : Customer already has Vehicle Insurance, 0 : Customer doesn't have Vehicle Insurance
 
 - Vehicle_Age   |  Age of the Vehicle 
             
@@ -43,3 +43,36 @@ Variable | Description
 - Vintage | Number of Days, Customer has been associated with the company
 
 - Response | 	1 :  Customer is interested, 0 : Customer is not interested
+
+
+## Table of Content
+
+- **Hypothesis Testing**
+
+Hypothesis Testing is the first step we take towards understanding the data. Hypothesis Testing gives us the head-start towards understanding the problem.
+
+- **EDA**
+![](/images/Wholedata.png)
+![](/images/EDA_1.png)
+![](/images/EDA_2.png)
+![](/images/EDA_3.png)
+
+- **Data Cleaning**
+
+![](/images/DC_1.png)
+
+![](/images/Age_bin.png)
+
+![](/images/DC.png)
+![](/images/DC_2.png)
+
+- **Model Building**
+
+![](/images/Model_build_1.png)
+![](/images/model_comparison.png)
+![](/images/ROC_FOR_ALL.png)
+![](/images/Random_Forest ROC-AUC Curve.png)
+![](/images/xgb ROC-AUC Curve.png)
+
+
+- **Final Submission**
