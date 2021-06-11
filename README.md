@@ -60,11 +60,11 @@ Hypothesis Testing is the first step we take towards understanding the data. Hyp
 - **Data Cleaning**
 
 ![](/images/DC_1.png)
-
-![](/images/Age_bin.png)
-
 ![](/images/DC.png)
 ![](/images/DC_2.png)
+
+**Feature Engineering**
+![](/images/Age_bin.png)
 
 - **Model Building**
 
